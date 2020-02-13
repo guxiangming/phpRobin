@@ -1,0 +1,4 @@
+class SmoothWeightedRebin implements RobinInterface
+{
+    
+}
